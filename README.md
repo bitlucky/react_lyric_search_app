@@ -1,6 +1,6 @@
-## under dev
+## Under Dev
 
-In the project directory, you can run:
+In this project directory, you can run:
 
 ### `npm start`
 
